@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+ <circle cx="60" cy="60" r="55" fill="none" stroke="#e9a8bc" stroke-width="2" opacity=".8"/>
+ <path d="M62 25c-18 9-25 27-12 39 12 12 31 5 36-10 4-13-3-24-15-28 8 8 8 18 1 25-8 8-20 3-19-7 1-8 6-14 9-19z" fill="#e9a8bc"/>
+ <path d="M35 76c11-8 23-9 34-2 12 8 23 7 29-2" fill="none" stroke="#d9b8a6" stroke-width="3" stroke-linecap="round"/>
+ <text x="60" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#fff4f7">SA</text>
+</svg>
